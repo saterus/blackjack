@@ -5,7 +5,7 @@
 # Tested In  : Ruby 1.8.7
 #
 
-require 'Card'
+require_relative 'Card'
 
 class Hand
 

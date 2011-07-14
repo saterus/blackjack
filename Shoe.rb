@@ -5,8 +5,8 @@
 # Tested In  : Ruby 1.8.7
 #
 
-require 'Card'
-require 'Hand'
+require_relative 'Card'
+require_relative 'Hand'
 
 # A shoe contains multiple decks of cards, shuffled and ready to use.
 # The shoe tracks all cards yet unused and already discarded.

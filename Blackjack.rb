@@ -5,10 +5,10 @@
 # Tested In  : Ruby 1.8.7
 #
 
-require 'Shoe'
-require 'Hand'
-require 'Card'
-require 'Player'
+require_relative 'Shoe'
+require_relative 'Hand'
+require_relative 'Card'
+require_relative 'Player'
 
 class Blackjack
 
