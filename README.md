@@ -6,7 +6,7 @@ Card Counting Mode.
 
 ## Usage
 
-```ruby Blackjack.rb \[--t\] \[--c\]```
+```ruby Blackjack.rb [--t] [--c]```
 
 The ```--t``` argument enables Training Mode which will give you
 hints on how best to play out your hand. You can test yourself before
